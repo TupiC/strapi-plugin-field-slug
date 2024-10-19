@@ -21,7 +21,7 @@
     "Anastasiia Berest (XFR | xforeal) and Chat GPT"
   ],
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=14.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT",
